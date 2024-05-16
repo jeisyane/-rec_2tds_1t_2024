@@ -1,0 +1,16 @@
+img{
+    width: 200px;
+    height: 180px;
+}
+.filho1{
+    color: aqua;
+}
+.filho2{
+    color: red;
+}
+.pai{
+    background-color: darkgray;
+}
+h1{
+    text-align: center;
+}
